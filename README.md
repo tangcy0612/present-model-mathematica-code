@@ -4,7 +4,7 @@ This repository provides the Wolfram Mathematica notebook used to reproduce the 
 
 ## File
 
-- `Numerical_Solution_for_the_Present_Model.nb`: Mathematica notebook for the numerical solution of the present model.
+- `Numerical Solution for the Present Model.nb`: Mathematica notebook for the numerical solution of the present model.
 
 ## Software
 
